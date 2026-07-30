@@ -1,6 +1,6 @@
 # Hi, I'm Philip Elicker 👋
 
-**Electrical & Computer Engineering Student** | Focusing on **Protection & Control (P&C), Substation Automation, & Distributed Energy Resources (DERs)**.
+**Electrical & Computer Engineering Student** | Focusing on **Protection & Controls (P&C), Substation Automation, & Distributed Energy Resources (DERs)**.
 
 I build software and embedded hardware systems that model, control, and protect power grid infrastructure—bridging real-time firmware execution with high-level power systems analysis.
 
