@@ -25,5 +25,5 @@ I build software and embedded hardware systems that model, control, and protect 
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/philippelicker](https://linkedin.com/in/philip-elicker/) <!-- Replace with your actual LinkedIn URL -->
+* **LinkedIn:** [linkedin.com/in/philip-elicker](https://linkedin.com/in/philip-elicker/) <!-- Replace with your actual LinkedIn URL -->
 * **Email:** [paelicke@ncsu.edu]
